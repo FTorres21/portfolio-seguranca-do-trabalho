@@ -36,14 +36,21 @@ Bem-vindo ao meu portfólio técnico. Este repositório reúne modelos de docume
 *   **Cenário:** Gestão simultânea de 3 canteiros de obras de grande porte em Salvador/BA (Edifício Salvador, Condomínio Farol e Residencial Barra) em diferentes fases executivas (Estrutura, Acabamento e Fundações).
 *   **O que demonstra:** Visão sistêmica e analítica para o gerenciamento de múltiplos riscos[cite: 1]. Inclui um Painel de Validade Documental Legal (PGR, PCMSO e PPP/eSocial), Relatório de Auditoria de campo com Matriz de Acompanhamento de Planos de Ação (5W2H), elaboração de Diretriz Técnico-Interna para Trabalho em Altura (fórmula da Distância Livre de Queda) e Programa de Coleta Seletiva/Gestão de Resíduos da Construção Civil conforme resoluções do CONAMA.
 *   **Arquivo:** [Visualizar PDF](./6.%Sistema%20Integrado%20de%20Gest%C3%A3o%20de%20SST%20Multiobras.pdf)
+
+### 7. Gestão de AVCB e Plano de Atendimento a Emergências (PAE) — CBMBA & NBR 15219
+*   **Cenário:** Regularização predial de uma Indústria Química de Médio Porte (2.200 m², Risco Médio / Divisão I-2) sob as regras do Decreto Estadual nº 16.302/2015 da Bahia.
+*   **O que demonstra:** Raciocínio normativo para interface com órgãos públicos e mitigação de pendências técnicas. Inclui um Checklist Crítico de Pré-Vistoria (sinalização, hidrantes pela IT-22, iluminação pela IT-18 e central de GLP), organograma de brigada via IT-17 e fluxograma de abandono. Traz como diferencial um algoritmo em Python para automatizar o dimensionamento do efetivo e alertar preventivamente sobre vencimentos de laudos e recargas.
+* **Arquivo:** [Visualizar PDF](Projeto_avcb_pae.pdf)
+  
 ---
 
 ## 🛠️ Competências Técnicas Demonstradas
 
-*   **Gestão de Riscos e Auditoria:** Monitoramento e gerenciamento de riscos em múltiplos canteiros de obras simultâneos, aplicação de ferramentas gerenciais (Metodologia 5W2H, Matrizes de Correlação 4x4) e tratamento analítico de não-conformidades críticas em campo.
-*   **Higiene Ocupacional:** Parametrização de ruído, limites de tolerância, avaliação de agentes térmicos/químicos e verificação da eficácia de EPIs por atenuação.
-*   **Legislação, Normatização e Meio Ambiente:** Domínio e interpretação de textos técnicos regulamentares (com foco em GRO, PGR, eSocial/PPP, NR-01, NR-06, NR-12, NR-18 e NR-35), decretos federais previdenciários (LTCAT) e resoluções ambientais do CONAMA para gestão de resíduos da construção civil (RCD).
-*   **Liderança e Articulação Preventiva:** Supervisão e direcionamento das rotinas diárias das equipes técnicas (Técnicos de Segurança do Trabalho) e interface consultiva com comissões internas de segurança (CIPA).
+* **Gestão de Riscos, Auditoria e Emergências:** Monitoramento e gerenciamento de riscos em múltiplos canteiros de obras simultâneos, aplicação de ferramentas gerenciais (Metodologia 5W2H, Matrizes de Correlação 4x4) e tratamento analítico de não-conformidades em campo. Elaboração e estruturação de Planos de Atendimento a Emergências (PAE) e estabelecimento de checklists preventivos para auditoria predial.
+* **Higiene Ocupacional:** Parametrização de ruído, limites de tolerância, avaliação de agentes térmicos/químicos e verificação da eficácia de EPIs por atenuação.
+* **Legislação, Normatização e Interface Institucional:** Domínio e interpretação de textos técnicos regulamentares (com foco em GRO, PGR, eSocial/PPP, NR-01, NR-06, NR-12, NR-18 e NR-35), decretos federais previdenciários (LTCAT), resoluções ambientais do CONAMA e legislação estadual de segurança contra incêndio (Decreto Estadual nº 16.302/2015-BA e Instruções Técnicas do CBMBA) para homologação e processos de AVCB.
+* **Liderança e Articulação Preventiva:** Supervisão e direcionamento das rotinas diárias das equipes técnicas (Técnicos de Segurança do Trabalho), interface consultiva com comissões internas de segurança (CIPA) e dimensionamento estratégico de efetivos de Brigadas de Incêndio.
+* **Inovação e Inteligência de Dados aplicada à SST:** Desenvolvimento de scripts em Python voltados para a engenharia de segurança, automatizando cálculos de dimensionamento normativo e criando sistemas preventivos de monitoramento de prazos e conformidade documental legal.
 
 ---
 *Nota: Este é um repositório com fins estritamente didáticos e de demonstração de competências técnicas para processos seletivos.*
