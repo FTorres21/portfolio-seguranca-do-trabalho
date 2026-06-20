@@ -32,6 +32,11 @@ Bem-vindo ao meu portfólio técnico. Este repositório reúne modelos de docume
 * **O que demonstra:** Domínio na avaliação de agentes nocivos (Calor e Fumos Metálicos), diferenciação entre a esfera trabalhista e o nexo previdenciário para fins de Aposentadoria Especial (Decreto 3.048/99).
 * **Arquivo:** [Visualizar PDF](./5. Laudo Técnico das Condições Ambientais (LTCAT) — Previdenciário.pdf)
 
+### 6. Sistema Integrado de Gestão de SST Multiobras — NR-18, NR-35, NR-06 & CONAMA
+*   **Cenário:** Gestão simultânea de 3 canteiros de obras de grande porte em Salvador/BA (Edifício Salvador, Condomínio Farol e Residencial Barra) em diferentes fases executivas (Estrutura, Acabamento e Fundações).
+*   **O que demonstra:** Visão sistêmica e analítica para o gerenciamento de múltiplos riscos. Inclui um Painel de Validade Documental Legal (PGR, PCMSO e PPP/eSocial), Relatório de Auditoria de campo com Matriz de Acompanhamento de Planos de Ação (5W2H), elaboração de Diretriz Técnica Interna para Trabalho em Altura (fórmula da Distância Livre de Queda) e Programa de Coleta Seletiva/Gestão de Resíduos da Construção Civil conforme resoluções do CONAMA.
+*   **Arquivo:** [Visualizar PDF](./6. Sistema Integrado de Gestão de SST Multiobras.pdf)
+
 ---
 
 ## 🛠️ Competências Técnicas Demonstradas
