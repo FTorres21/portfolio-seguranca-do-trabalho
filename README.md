@@ -3,6 +3,8 @@
 
 Bem-vindo ao meu portfólio técnico. Este repositório reúne modelos de documentos e relatórios gerados a partir de cenários industriais simulados, com o objetivo de demonstrar a aplicação prática das Normas Regulamentadoras (NRs) e metodologias de Higiene Ocupacional.
 
+O diferencial deste trabalho está na união entre a fundamentação técnica legal e a **transformação digital**, utilizando lógica de programação e automação em Python para otimizar processos de gestão de riscos, controle de conformidade (AVCB) e monitoramento documental de SST.
+
 ---
 
 ## 📁 Projetos e Documentos Técnicos
