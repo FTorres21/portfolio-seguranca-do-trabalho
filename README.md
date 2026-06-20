@@ -39,9 +39,11 @@ Bem-vindo ao meu portfólio técnico. Este repositório reúne modelos de docume
 ---
 
 ## 🛠️ Competências Técnicas Demonstradas
-* **Higiene Ocupacional:** Parametrização de ruído, limites de tolerância e eficácia de EPIs por atenuação.
-* **Gestão de Riscos:** Aplicação de ferramentas gerenciais (5W2H, Matrizes de Correlação).
-* **Legislação:** Domínio e interpretação de textos técnicos regulamentares e decretos federais.
+
+*   **Gestão de Riscos e Auditoria:** Monitoramento e gerenciamento de riscos em múltiplos canteiros de obras simultâneos, aplicação de ferramentas gerenciais (Metodologia 5W2H, Matrizes de Correlação 4x4) e tratamento analítico de não-conformidades críticas em campo.
+*   **Higiene Ocupacional:** Parametrização de ruído, limites de tolerância, avaliação de agentes térmicos/químicos e verificação da eficácia de EPIs por atenuação.
+*   **Legislação, Normatização e Meio Ambiente:** Domínio e interpretação de textos técnicos regulamentares (com foco em GRO, PGR, eSocial/PPP, NR-01, NR-06, NR-12, NR-18 e NR-35), decretos federais previdenciários (LTCAT) e resoluções ambientais do CONAMA para gestão de resíduos da construção civil (RCD).
+*   **Liderança e Articulação Preventiva:** Supervisão e direcionamento das rotinas diárias das equipes técnicas (Técnicos de Segurança do Trabalho) e interface consultiva com comissões internas de segurança (CIPA).
 
 ---
 *Nota: Este é um repositório com fins estritamente didáticos e de demonstração de competências técnicas para processos seletivos.*
