@@ -55,20 +55,6 @@ O grande diferencial deste trabalho está na união entre a **fundamentação t�
 * **Inteligência de Dados e Pacote Office (Excel e PowerPoint):** Foco em engenharia de segurança baseada em dados. Uso avançado de Excel para consolidação de planilhas complexas, cruzamento de dados e elaboração de indicadores de SST (taxas de frequência, gravidade, absenteísmo e planos de ação). Domínio de PowerPoint para estruturação de relatórios executivos e apresentações de impacto para a alta liderança.
 * **Inspeções, Auditorias e Investigação:** Vivência no acompanhamento de frentes de trabalho (obras e áreas corporativas), aplicação de auditorias internas/externas, identificação de desvios e aplicação de metodologias analíticas para investigação de incidentes e acidentes.
 * **Interface Institucional e Treinamentos:** Articulação e interface consultiva com clientes, fornecedores, comissões internas (CIPA) e órgãos públicos (Corpo de Bombeiros, órgãos ambientais). Facilidade para ministrar treinamentos normativos de segurança e campanhas de conscientização (SIPAT).
-  
----
-
-## 🛠️ Competências Técnicas Demonstradas
-
-**Gestão de Sistemas Integrados (SOC e eSocial):** Familiaridade com a parametrização, alimentação e controle de dados no sistema SOC para gestão de ambulatório, segurança e higiene ocupacional. Domínio na consistência de dados para atendimento aos eventos de SST no eSocial (S-2210, S-2220 e S-2240), garantindo conformidade entre o inventário do PGR e os registros do PPP/LTCAT.
-
-**Programas Legais e Documentação de SST:** Capacidade técnica para elaboração, revisão e controle de programas mandatórios, incluindo PGR, PCMSO, LTCAT e PPP, além de avaliações periciais para caracterização de insalubridade e periculosidade.
-
-**Inteligência de Dados e Pacote Office (Excel e PowerPoint):** Foco em engenharia de segurança baseada em dados. Uso avançado de Excel para consolidação de planilhas complexas, cruzamento de dados e elaboração de indicadores de SST (taxas de frequência, gravidade, absenteísmo e planos de ação). Domínio de PowerPoint para estruturação de relatórios executivos e apresentações de impacto para a alta liderança.
-
-**Inspeções, Auditorias e Investigação:** Vivência no acompanhamento de frentes de trabalho (obras e áreas corporativas), aplicação de auditorias internas/externas, identificação de desvios e aplicação de metodologias analíticas para investigação de incidentes e acidentes.
-
-**Interface Institucional e Treinamentos:** Articulação e interface consultiva com clientes, fornecedores, comissões internas (CIPA) e órgãos públicos (Corpo de Bombeiros, órgãos ambientais). Facilidade para ministrar treinamentos normativos de segurança e campanhas de conscientização (SIPAT).
 
 ---
 *Nota: Este é um repositório com fins estritamente didáticos e de demonstração de competências técnicas para processos seletivos.*
