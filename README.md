@@ -46,7 +46,7 @@ O grande diferencial deste trabalho está na união entre a fundamentação téc
   
 ---
 
-🛠️ Competências Técnicas Demonstradas
+## 🛠️ Competências Técnicas Demonstradas
 
 **Gestão de Sistemas Integrados (SOC e eSocial):** Familiaridade com a parametrização, alimentação e controle de dados no sistema SOC para gestão de ambulatório, segurança e higiene ocupacional. Domínio na consistência de dados para atendimento aos eventos de SST no eSocial (S-2210, S-2220 e S-2240), garantindo conformidade entre o inventário do PGR e os registros do PPP/LTCAT.
 
